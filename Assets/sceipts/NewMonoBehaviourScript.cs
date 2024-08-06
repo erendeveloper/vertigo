@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
-    int a = 5;
+    int b = 5;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
